@@ -1,0 +1,18 @@
+Index: GitTest.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>print(\"Hello World\")\r\nprint(\"Git Test\")\r\nprint(\"This is a test\")\r\nprint(\"This is a master test   \")
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/GitTest.py b/GitTest.py
+--- a/GitTest.py	(revision a563980e9f23bfa8ed90d6bb18d9d975b6fc0d45)
++++ b/GitTest.py	(date 1727531766021)
+@@ -1,4 +1,4 @@
+ print("Hello World")
+ print("Git Test")
+ print("This is a test")
+-print("This is a master test   ")
+\ No newline at end of file
++print("This is a master test")
+\ No newline at end of file

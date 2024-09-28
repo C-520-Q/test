@@ -1,0 +1,107 @@
+Index: .idea/inspectionProfiles/Project_Default.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/Project_Default.xml b/.idea/inspectionProfiles/Project_Default.xml
+new file mode 100644
+--- /dev/null	(date 1727531461231)
++++ b/.idea/inspectionProfiles/Project_Default.xml	(date 1727531461231)
+@@ -0,0 +1,12 @@
++<component name="InspectionProjectProfileManager">
++  <profile version="1.0">
++    <option name="myName" value="Project Default" />
++    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
++      <option name="ignoredErrors">
++        <list>
++          <option value="N806" />
++        </list>
++      </option>
++    </inspection_tool>
++  </profile>
++</component>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1727531461231)
++++ b/.idea/misc.xml	(date 1727531461231)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Black">
++    <option name="sdkName" value="D:\app\anaconda3" />
++  </component>
++  <component name="ProjectRootManager" version="2" project-jdk-name="D:\app\anaconda3" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1727531461232)
++++ b/.idea/vcs.xml	(date 1727531461232)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+new file mode 100644
+--- /dev/null	(date 1727531461231)
++++ b/.idea/inspectionProfiles/profiles_settings.xml	(date 1727531461231)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+diff --git a/Sklearn库.ipynb b/Sklearn库.ipynb
+new file mode 100644
+diff --git a/闭包.py b/闭包.py
+new file mode 100644
+diff --git a/学生管理系统/v2.py b/学生管理系统/v2.py
+new file mode 100644
+diff --git a/装饰器.py b/装饰器.py
+new file mode 100644
+diff --git a/生成器.py b/生成器.py
+new file mode 100644
+diff --git a/Matplotlib库.ipynb b/Matplotlib库.ipynb
+new file mode 100644
+diff --git a/test.py b/test.py
+new file mode 100644
+diff --git a/.idea/jupyter-settings.xml b/.idea/jupyter-settings.xml
+new file mode 100644
+diff --git a/Numpy库.ipynb b/Numpy库.ipynb
+new file mode 100644
+diff --git a/学生管理系统/Student.py b/学生管理系统/Student.py
+new file mode 100644
+diff --git a/学生管理系统/student.txt b/学生管理系统/student.txt
+new file mode 100644
+diff --git a/.ipynb_checkpoints/numpy-checkpoint.ipynb b/.ipynb_checkpoints/numpy-checkpoint.ipynb
+new file mode 100644
+diff --git a/学生管理系统/v1.py b/学生管理系统/v1.py
+new file mode 100644
+diff --git a/学生管理系统/main.py b/学生管理系统/main.py
+new file mode 100644
+diff --git a/Pandas库.ipynb b/Pandas库.ipynb
+new file mode 100644
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
