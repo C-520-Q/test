@@ -1,6 +1,1 @@
-print("Hello World")
-print("Git Test")
-print("This is a test")
-print("This is a master test")
-print("This is a hotfix test")
 print(1+1)
